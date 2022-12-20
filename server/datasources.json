@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "graphqloopback",
+    "password": "admin",
+    "name": "ds",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
